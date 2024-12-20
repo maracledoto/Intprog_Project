@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548811499627",
+    "project_id": "intprog-bausing",
+    "storage_bucket": "intprog-bausing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548811499627:android:ff2ccf1c42847ade7fa92e",
+        "android_client_info": {
+          "package_name": "com.example.intprog_bausing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7al_5I5RC7miwcvnCJH0LmPWCz8Kf3nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
